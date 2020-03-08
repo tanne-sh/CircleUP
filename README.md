@@ -1,1 +1,1 @@
-https://tanne-sh.github.io/СircleUP/.
+https://tanne-sh.github.io/CircleUP/
